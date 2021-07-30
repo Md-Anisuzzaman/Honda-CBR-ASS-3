@@ -1,0 +1,23 @@
+.navbar-light .navbar-nav .nav-link {
+  color: #f8f9fa;
+}
+
+.nav-text-color{
+    color: gainsboro;
+}
+
+.filter-image{
+    filter: grayscale(100);
+}
+
+h5{
+  color:#252B42;
+
+} 
+
+.embed-responsive-item{
+
+    min-height: 460px;
+    border-radius: 20px;
+
+}
