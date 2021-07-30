@@ -6,6 +6,10 @@
     color: gainsboro;
 }
 
+.modal-content{
+background-color:cornflowerblue;
+}
+
 .filter-image{
     filter: grayscale(100);
 }
